@@ -1,2 +1,2 @@
 # cpieTomStoch
-Constant-size Centipe Game code for ToM research
+Constant-size Centipede Game code for ToM research
